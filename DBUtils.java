@@ -1,5 +1,4 @@
 Hello this file contains the DB connection logic
 
 
-hello added this line now
-hello added at 26/07.
+hello added this line now.
